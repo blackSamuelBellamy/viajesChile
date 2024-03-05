@@ -32,6 +32,11 @@ header {
   border: none;
 }
 
+.card-img-top {
+  height: 250px;
+}
+
+
 #carouselExampleControls {
   position: relative;
   top: 0;
